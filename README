@@ -7,7 +7,7 @@ Using git to play the classic interactive fiction game Zork
     - Info and how to play: https://github.com/art-dot-git/zork-client
     - Report an issue: https://github.com/art-dot-git/zork-client/issues
 
-Quick Start:
+Quick Start: 
 
     1. Edit this README file, adding the desired game command after
         the `>` on the last line.
