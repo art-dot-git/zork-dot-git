@@ -1,0 +1,32 @@
+================
+=   Zork.git   =
+================
+
+Using git to play the classic interactive fiction game Zork
+
+    - Info and how to play: https://github.com/art-dot-git/zork-client
+    - Report an issue: https://github.com/art-dot-git/zork-client/issues
+
+Quick Start:
+
+    1. Edit this README file, adding the desired game command after
+        the `>` on the last line.
+
+    2. Submit a PR with the change against the main repo.
+
+    3. A bot automatically processes the PR, merges in the change,
+        updates the game state, and outputs the result back into this README.
+
+
+
+=== West of House | Score: 0 | Moves: 0 ===
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front door.
+There is a small mailbox here.
+
+> 
